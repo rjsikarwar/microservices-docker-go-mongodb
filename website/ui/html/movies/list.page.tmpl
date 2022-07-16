@@ -10,7 +10,11 @@
             <div class="col-md-3">
                 <div class="card mb-3 shadow-sm">
                     <div class="card-body">
+                        <p class="card-text">{{.ID}}</p>
                         <p class="card-text">{{.Title}}</p>
+                        <p class="card-text">{{.Description}}</p>
+                        <a href={{.ImdbUrl}}>URL</a>
+                        <p class="card-text">{{.Rating}}</p>
                         <div class="d-flex justify-content-between align-items-center">
                             <div class="btn-group">
                                 <a class="btn btn-sm btn-outline-secondary" href="/movies/view/{{.ID.Hex}}" role="button">View</a>

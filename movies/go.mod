@@ -3,6 +3,7 @@ module github.com/mmorejon/microservices-docker-go-mongodb/movies
 go 1.16
 
 require (
+	github.com/StalkR/imdb v1.0.8
 	github.com/golang/snappy v0.0.4 // indirect
 	github.com/gorilla/mux v1.8.0
 	github.com/klauspost/compress v1.13.4 // indirect
