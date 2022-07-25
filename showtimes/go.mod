@@ -1,4 +1,4 @@
-module github.com/mmorejon/microservices-docker-go-mongodb/showtimes
+module github.com/rjsikarwar/microservices-docker-go-mongodb/showtimes
 
 go 1.16
 

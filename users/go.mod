@@ -1,4 +1,4 @@
-module github.com/mmorejon/microservices-docker-go-mongodb/users
+module github.com/rjsikarwar/microservices-docker-go-mongodb/users
 
 go 1.16
 
