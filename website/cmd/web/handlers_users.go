@@ -6,7 +6,7 @@ import (
 	"text/template"
 
 	"github.com/gorilla/mux"
-	"github.com/mmorejon/microservices-docker-go-mongodb/users/pkg/models"
+	"github.com/rjsikarwar/microservices-docker-go-mongodb/users/pkg/models"
 )
 
 type userTemplateData struct {

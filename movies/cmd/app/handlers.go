@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"github.com/StalkR/imdb"
 	"github.com/gorilla/mux"
-	"github.com/mmorejon/microservices-docker-go-mongodb/movies/pkg/models"
+	"github.com/rjsikarwar/microservices-docker-go-mongodb/movies/pkg/models"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 	"net/http"
 	"strconv"

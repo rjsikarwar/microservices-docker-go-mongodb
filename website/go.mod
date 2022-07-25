@@ -4,6 +4,7 @@ go 1.16
 
 require (
 	github.com/gorilla/mux v1.8.0
+	github.com/rjsikarwar/microservices-docker-go-mongodb/movies v0.0.0-20210814221753-d2cdd54df461
 	github.com/rjsikarwar/microservices-docker-go-mongodb/bookings v0.0.0-00010101000000-000000000000
 	github.com/rjsikarwar/microservices-docker-go-mongodb/showtimes v0.0.0-00010101000000-000000000000
 	github.com/rjsikarwar/microservices-docker-go-mongodb/users v0.0.0-00010101000000-000000000000
